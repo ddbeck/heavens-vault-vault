@@ -10,6 +10,8 @@ You're free to use, copy, modify, and distribute `heavens-vault-vault` under the
 
 ## Build
 
+**Note**: you can probably skip this step. Download the executable from [the releases page](https://github.com/ddbeck/heavens-vault-vault/releases/) instead, then mosey on down to [Setup](#setup).
+
 To build `heavens-vault-vault`, you must have [Go](https://golang.org/) installed (I used Go 1.12—other versions may work, but I'm not sure because I'm new to Go).
 
 1. Clone this repository.
