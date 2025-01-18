@@ -2,6 +2,8 @@
 
 by [@ddbeck](https://www.ddbeck.com/)
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 `heavens-vault-vault` makes a copy of your [_Heaven's Vault_](https://www.inklestudios.com/heavensvault/) save game every ten minutes, so you can revert your game after you've discovered that you've made some unrecoverable mistake and you don't want to start a whole new playthrough. **[You probably don't want to do this](https://twitter.com/HeavensVault/status/1129823237955903495) if you haven't been through the game once (or more!) already.**
 
 I created this program to ease some frustration while playing and to learn a little bit about the Go programming language. I decided to share it in case it was useful to anyone else, but I don't expect to add any features or futher develop this program. If you have any problems or ideas, feel free to open an issue or pull request, but I can't promise I'll be able to follow up on them.
